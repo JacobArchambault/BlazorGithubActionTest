@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BlazorGithubActionTest
 {
-    public class Program
+    public class Program 
     {
         public static void Main(string[] args)
         {
